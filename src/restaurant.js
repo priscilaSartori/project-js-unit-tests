@@ -93,6 +93,21 @@
 // - retornará o valor somado acrescido de 10%.
 // DICA: para isso, você precisará percorrer tanto o objeto da chave `food` quanto o objeto da chave `drink`.
 
-const createMenu = () => {};
+const createMenu = (myMenu) => {
+  fetchMenu: () => menu,
+  consumption: [' '],
+}
+
+
+const restaurant = (comida) => {
+restaurant.consumption += comida
+request = comida
+}
+restaurant("comida")
+
+const orderFromMenu = (request) => {
+  restaurant.order += request
+  
+}
 
 module.exports = createMenu;

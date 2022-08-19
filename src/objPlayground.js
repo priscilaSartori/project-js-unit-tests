@@ -40,19 +40,16 @@ let calculo = {
   mult: number1 * number2,
   div: Math.trunc(number1 / number2),
   sub: number1 - number2,
-  }
-  return calculo
+  };
+  return calculo;
 }; 
 
-const arrayGenerator = (type, object) => {;
-if (type == "keys"){
-  return Object.keys(object)
-} else if (type == "values") {
-  return Object.values(object)
-} else {
-  return Object.entries(object)
+const arrayGenerator = (type, object) => {
+if (type === 'keys') return Object.keys(object);
+if (type === 'values') return Object.values(object);
+if (type === 'entries') return Object.entries(object);
 };
-}
-console.log(Object.keys)
+
+console.log(Object.keys);
 
 module.exports = { calculator, arrayGenerator };

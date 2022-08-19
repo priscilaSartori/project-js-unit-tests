@@ -130,7 +130,3 @@ const createMenu = require('../src/restaurant');
       // Agora faça o PASSO 4 no arquivo `src/restaurant.js`.
     });
   });
-
-  // expect(getCharacter('arya')).toEqual({ name: 'Arya Stark', class: 'Rogue' , phrases: ['Not today', 'A girl has no name.']});
-    // expect(getCharacter('BRIENNE')).toBeTruthy();
-    expect(getCharacter('melisSandre')).toBeTruthy();

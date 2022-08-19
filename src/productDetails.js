@@ -41,5 +41,5 @@ const productDetails = (firstProduct, secondProduct) => [
     },
   },
 ];
-
+console.log(typeof (productDetails('Priscila')[1]));
 module.exports = productDetails;

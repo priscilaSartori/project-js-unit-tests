@@ -90,6 +90,9 @@
 // - fará a soma do preço desses itens;
 // - retornará o valor somado acrescido de 10%.
 // DICA: para isso, você precisará percorrer tanto o objeto da chave `food` quanto o objeto da chave `drink`.
+
+// Desenvolvido com o auxílio de Thais Gonzaga.
+
 let menu = {};
 
 const comanda = (pedido) => {

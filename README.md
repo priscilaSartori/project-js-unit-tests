@@ -61,27 +61,6 @@ Projeto de avaliação feito durante o curso da Trybe.
 
 </details>
 
-<details>
-  <summary><strong>🗣 Nos dê feedbacks sobre o projeto!</strong></summary><br />
-
-  Ao finalizar e submeter o projeto, não se esqueça de avaliar a sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-  VERIFIQUE COM CUIDADO SE O LINK SE REFERE AO PROJETO CORRETO!!!
-
-  Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
-  ⚠️ **O avaliador automático não necessariamente avalia o seu projeto na ordem em que os requisitos aparecem no README, pois o objetivo dele é tornar ágil a avaliação. Portanto, ao perceber esse processo não se preocupe, ok?.**
-
-</details>
-
-<details>
-  <summary><strong>🗂 Compartilhe seu Portfólio!</strong></summary><br />
-
-  Você sabia que o LinkedIn é a principal rede social profissional? E que compartilhar o seu aprendizado por lá é muito importante para quem deseja construir uma carreira de sucesso?
-  Compartilhe esse projeto no seu LinkedIn, marque o perfil da Trybe (@trybe) e mostre para a sua rede toda a sua evolução.
-
-</details>
-
 # Requisitos Obrigatórios
 
 ### 1. Implemente a função `average`
